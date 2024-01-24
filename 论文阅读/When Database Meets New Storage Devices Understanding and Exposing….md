@@ -21,7 +21,7 @@
 
 *测试方法*：
 
-![1706020157885](image/WhenDatabaseMeetsNewStorageDevicesUnderstandingandExposing…/1706020157885.png)
+![1706078516622](image/WhenDatabaseMeetsNewStorageDevicesUnderstandingandExposing…/1706078516622.png)
 
 生成工作负载，仅调整与io相关的knobs，通过分析运行结果得到原因。
 
